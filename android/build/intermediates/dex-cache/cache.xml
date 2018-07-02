@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_d0e57dae5f5481da6c2844fb70c34048c2892a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_ade3d982aeef363aa0960b4168f4ed5682f1b015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_ff30a6eb4b2882c925e15d84fa4f187f665fc4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_c2fd1867785f370713bce0df849615d9653c86dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_642fd2b315c66a782ac812780e119667db9be3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_62ed9dfef14743f75044fc503b8491e4e3d56eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_8c239fcda7bff2f20eebdfbc42ff7b98c4ccd802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_df33c18e6733c2f6e3f32bec6cf6f21f2c47b561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_855bb3221e2abbefec8f38c6c2f4cf4577d49ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_c8f362bcc496293e8e43599a17bb5c8ccb2cb51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_d9552ee3eeb94b5f561ec356c2f0665e2eee4a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_485a196c4e5d6735058df78423ad7b25c0200a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_f88b83252585bf8f6e81c593e3fdc09aa9b7262d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_479187964652177d5d8d0cd90744b9ad01b86f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_cfb775873c5ecfee751def25f3a609a8b0f9a6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_3d74e4f97b1b1ce3e9131c2301c0b45e0c52caf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/javax.inject-1_4f845ad0be7ee28a49c7ca091794a6b8af5a6c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_737f5c94f6bfde1fc55b17d6dbfd0731f94ac1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_df7b1f5037a60eeaa8964c04224579b27bc3c3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_2e45c0b19ce939ce7289ba61ba536565aa8f07a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_3f016f562c8ddafcee9aac71a57f10bafa4646bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_f5593f7fba7398b109a3e2eecff8bf59a83b8ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="/Users/s1b00rh/Documents/PolyhouseWorker/polyhouseWorker/WorkerApp/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.43.1_8feb5977946e2f3be7e8f88e30c621891d853d80.jar" />
+    </item>
+
+</items>
